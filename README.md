@@ -1,4 +1,5 @@
 # JavaScriptProject3
+Project Title
 Making a Password Gen
 
 Below is the pseudocodeg for the password gen.
